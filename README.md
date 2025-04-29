@@ -1,4 +1,5 @@
 # 📘 Smart Study Planner V2
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartstudyplanner-v2-nfz2d26ur2omdqpxywwdyl.streamlit.app/)
 
 Smart Study Planner V2 is an updated, AI-powered web app that generates **personalized daily study plans** based on user input such as:
 
